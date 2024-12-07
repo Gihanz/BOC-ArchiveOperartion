@@ -1,0 +1,5 @@
+com\archv\gs\connector\connector\Utils.class
+com\archv\gs\connector\util\PropertyReader.class
+com\archv\gs\ArchiveOperartion\ArchiveOperations.class
+com\archv\gs\connector\connector\CECUtil.class
+com\archv\gs\connector\connector\HCPOperations.class
