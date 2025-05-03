@@ -7,6 +7,10 @@ import java.io.IOException;
 import java.util.Properties;
 import org.apache.log4j.PropertyConfigurator;
 
+/**
+ * Created by Gihan on 1/26/15.
+ */
+
 public class PropertyReader
 { 
 	String appPath;
