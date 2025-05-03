@@ -6,7 +6,7 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 /**
- * Created by japark on 1/26/15.
+ * Created by Gihan on 1/26/15.
  */
 public class Utils {
 
