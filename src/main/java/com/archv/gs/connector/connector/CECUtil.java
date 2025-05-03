@@ -38,6 +38,10 @@ import com.filenet.api.collection.DocumentSet;
 import com.filenet.apiimpl.property.PropertyImpl;
 import com.filenet.apiimpl.property.PropertyStringImpl;
 
+/**
+ * Created by Gihan on 1/26/15.
+ */
+
 public class CECUtil {
 
 	private String uname = null;
